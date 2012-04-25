@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.gdata:gdata-java-client:1.40.0">
+    <CLASSES>
+      <root url="jar://$IVY_CACHE$/com/google/gdata/gdata-java-client/1.40.0/gdata-java-client-1.40.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$IVY_CACHE$/com/google/gdata/gdata-java-client/1.40.0/gdata-java-client-1.40.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$IVY_CACHE$/com/google/gdata/gdata-java-client/1.40.0/gdata-java-client-1.40.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
